@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: rgb(12, 12, 72);
+    display: flex;
+    color: aliceblue;
+}
+.text h2 {
+    color: rgb(251, 189, 31);
+}
+img {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+nav {
+    padding: 40px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 90px;
+}
+nav a{
+    font-size: 20px;
+    word-spacing: 3px;
+    color: aliceblue;
+}
+.active {
+    background-color: rgb(48, 25, 200);
+    padding: 10px;
+}
+aside{
+    margin-left: 5px;
+    display: flex;
+    background-color: rgb(157, 196, 196);
+}
+.menu {
+    background-color: rgb(12, 12, 72);
+    padding: 10px;
+}
+.menu1 a{
+    color: aliceblue;
+}
+.ndc{
+    padding: 20px;
+
+}
+.nd1 {
+    background-color: rgb(12, 12, 72);
+    padding: 40px;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.nd1 h2{
+    color: rgb(251, 189, 31);
+}
+.nd1 button {
+    background-color: rgb(42, 103, 235);
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.h1 {
+    text-align: center;
+    font-size: 17px;
+    padding-top: 10px;
+}
+.nd2 {
+    display: flex;
+}
+.a1 {
+    text-align: center;
+}
+.a1 button {
+    background-color: rgb(42, 103, 235);
+}
+.a2 {
+    text-align: center;
+}
+.a2 button {
+    background-color: rgb(42, 103, 235);
+}
+.a3 {
+    text-align: center;
+}
+.a3 button {
+    background-color: rgb(42, 103, 235);
+}
